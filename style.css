@@ -1,0 +1,73 @@
+.navbarb{
+    font-size: 25px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.headerh1{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    margin-top: 95px;
+    font-size: 95px;
+    color: #000;
+}
+.button{
+    border-radius: 25px;
+    color:white;
+    background: #000;
+    height: 35px;
+    width: 110px;
+    margin-top: -5px;
+}
+.headerh4{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    margin-top: 10px;
+    color: #000;
+}
+.headerbtn{
+    background:black;
+    border-radius:25px;
+    width: 180px;
+    height: 40px;
+}
+.sech3{
+    font-size: 30px;
+    color: rgba(230, 230, 230, 1);
+    font-weight: 700;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.sech5{
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 15px;
+}
+.sech6title{
+    font-size: 13px;
+}
+.sech6date{
+    color: rgba(117, 117, 117, 1);
+    font-family:  sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+.arth3left{
+    font-size: 22px;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+.arth4left{
+    font-size: 16px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgba(117, 117, 117, 1);
+}
+.arth5left{
+    font-size: 13px;
+    color: rgba(117, 117, 117, 1);
+}
+.rightsidea{
+    text-decoration: none;
+    color: gray;
+    text-align: center;
+    font-size: 14px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.rightsideloc{
+    position:sticky;
+    z-index: 42;
+}
